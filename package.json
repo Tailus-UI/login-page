@@ -1,10 +1,10 @@
 {
-  "name": "entrepreneurmag-ui",
+  "name": "login-page",
   "version": "1.0.0",
-  "description": "entrepreneur magazine rdc UI",
+  "description": "Login page built with tailwind css ",
   "main": "index.js",
-  "repository": "https://github.com/devscast/entrepreneurmag-ui",
-  "author": "Devscast",
+  "repository": "https://github.com/Tailus-UI/login-page",
+  "author": "Tailus",
   "license": "MIT",
   "private": true,
   "dependencies": {
